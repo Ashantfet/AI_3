@@ -127,7 +127,7 @@ This heuristic allowed reasonable control and decision-making for the agents.
 ## 🤝 Credits
 
 Developed as part of **AI Assignment 3** @ IIT TIRUPATI
-Authors: ASHANT KUMAR
+Authors: ASHANT KUMAR (CS24M113)
 
 ---
 
