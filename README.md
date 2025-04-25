@@ -37,7 +37,7 @@ AI_3/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/AI_3.git
+   git clone https://github.com/Ashantfet/AI_3.git
    cd AI_3
    ```
 
