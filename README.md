@@ -27,8 +27,7 @@ AI_3/
 ├── final.py                # Script to run both algorithms and record matches
 ├── basic_test.py           # Test script to verify environment setup
 ├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── .venv/                  # Python virtual environment (optional)
+└── README.md               # Project documentation
 
 
 ---
