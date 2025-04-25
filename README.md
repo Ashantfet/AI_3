@@ -8,19 +8,28 @@ This project implements **Minimax** and **Alpha-Beta Pruning** algorithms on the
 ## 📁 Repository Structure
 
 ```
-AI_2/
+AI_3/
 ├── algorithm/
-│   ├── minimax.py             # Minimax implementation
-│   ├── alphabeta.py           # Alpha-Beta Pruning implementation
-│   └── random_agent.py        # Random agent for comparison
-├── final.py                   # Main evaluation script
-├── eval_minimax.py            # Runs only Minimax agent
-├── eval_alphabeta.py          # Runs only Alpha-Beta agent
-├── minimax_fullgame.mp4 # Recorded gameplay (Minimax)
-├── alphabeta_fullgame.mp4 # Recorded gameplay (Alpha-Beta)
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project description (this file)
-```
+│   ├── alphabeta.py          # Alpha-Beta pruning implementation
+│   ├── minimax.py            # Minimax algorithm implementation
+│   └── random_agent.py       # Random agent for baseline testing
+│
+├── slimevolleygym/
+│   ├──__init__.py
+│   ├── mlp.py            # MLP (used internally by environment agents)
+│   ├── patch_env.py      # Gym environment patch
+│   ├── slimevolley.py    # Main environment logic
+│   └── __pycache__/      # Python cache files
+│
+├── minimax_fullgame_0.5x1.mp4     # Output video (Minimax)
+├── alphabeta_fullgame_0.5x1.mp4   # Output video (Alpha-Beta)
+│
+├── final.py                # Script to run both algorithms and record matches
+├── basic_test.py           # Test script to verify environment setup
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+└── .venv/                  # Python virtual environment (optional)
+
 
 ---
 
