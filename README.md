@@ -122,7 +122,10 @@ This heuristic allowed reasonable control and decision-making for the agents.
 - [🎮 Alpha-Beta Gameplay](alphabeta_fullgame.mp4)
 
 ---
+---
+## 📽️ Presentation
 
+- [Google Slides Link](https://docs.google.com/presentation/d/1YvWjGo5Mkzojhy9obGW0f-NMrgvtPCzGR4rOFVKiPoE/edit?usp=sharing)
 ## 🤝 Credits
 
 Developed as part of **AI Assignment 3** @ IIT TIRUPATI
