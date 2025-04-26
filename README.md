@@ -137,7 +137,3 @@ Authors: ASHANT KUMAR (CS24M113)
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
----
-
-Let me know if you want the README tailored with your GitHub URL, author name, or institution!
